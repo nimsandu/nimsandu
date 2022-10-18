@@ -14,7 +14,7 @@
 
 ### contact me
 #### Website [nimsandu.gq](https://nimsandu.gq)
-#### Instagram [nimsandu.k] (https://instagram.com/nimsandu.k/)
+#### Instagram [nimsandu.k](https://instagram.com/nimsandu.k/)
 <!--
 **nimsandu/nimsandu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
