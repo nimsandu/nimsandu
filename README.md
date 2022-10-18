@@ -17,7 +17,7 @@ But Slightly wiser 🙃
   
   #### spotify chilling activity <br>
   
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=h9h35ieyknj01kyuvr8snbcjg&width={width})
+   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=h9h35ieyknj01kyuvr8snbcjg) 
   
   <br>
   
