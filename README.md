@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Im Nimsandu Kottage [![followers](https://img.shields.io/github/followers/nimsandu?style=social)
+## Im Nimsandu Kottage ![followers](https://img.shields.io/github/followers/nimsandu?style=social)
 
 ### Not that Old
 still a Teen
