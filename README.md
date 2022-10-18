@@ -12,6 +12,10 @@ But Slightly wiser 🙃
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimsandu&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+#### spotify chilling activity
+![Last Chillout](https://spotify-recently-played-readme.vercel.app/api?user=h9h35ieyknj01kyuvr8snbcjg)
+[nimsandu on spotify](https://open.spotify.com/user/h9h35ieyknj01kyuvr8snbcjg)
+
 ### contact me
 #### Website [nimsandu.gq](https://nimsandu.gq)
 #### Instagram [nimsandu.k](https://instagram.com/nimsandu.k/)
