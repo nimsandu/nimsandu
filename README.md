@@ -3,8 +3,8 @@
 ## Im Nimsandu Kottage
 
 ### Not that Old
-### still a Teen
-### But Slightly wiser 🙃
+still a Teen
+But Slightly wiser 🙃
 
 [![Nimsandus's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimsandu&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
