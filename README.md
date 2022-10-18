@@ -14,8 +14,9 @@ But Slightly wiser 🙃
 
 ### contact me
 #### Website [nimsandu.gq](https://nimsandu.gq)
-
+<dev>
 <a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
+</dev>
 <!--
 **nimsandu/nimsandu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
