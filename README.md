@@ -17,9 +17,10 @@ But Slightly wiser 🙃
   
   #### spotify chilling activity <br>
   
-  ![Last Chillout](https://spotify-recently-played-readme.vercel.app/api?user=h9h35ieyknj01kyuvr8snbcjg&width={1000})
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=h9h35ieyknj01kyuvr8snbcjg&width={width})
   
   <br>
+  
   [nimsandu on spotify](https://open.spotify.com/user/h9h35ieyknj01kyuvr8snbcjg)
   
 
