@@ -12,9 +12,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimsandu&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-###contact me
-[nimsandu.gq](https://nimsandu.gq)
-https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png [nimsandu.k](https://instagram.com/nimsandu.k/)
+### contact me
+#### Website [nimsandu.gq](https://nimsandu.gq)
+#### Instagram (https://instagram.com/nimsandu.k/)
 <!--
 **nimsandu/nimsandu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
