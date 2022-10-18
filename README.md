@@ -6,7 +6,7 @@
 still a Teen
 But Slightly wiser 🙃
 
-#### Someone who got hurt from other’s words, But still breathing cuz their words. They hurt so good ! Crying alone, smiling together
+#### Someone who got hurt from other’s words, But still breathing cuz their words hurt so good ! Crying alone, smiling together
 
 [![Nimsandus's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimsandu&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
