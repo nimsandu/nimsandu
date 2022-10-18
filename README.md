@@ -14,8 +14,9 @@ But Slightly wiser 🙃
 
 ### contact me
 #### Website [nimsandu.gq](https://nimsandu.gq)
+#### Instagram [nimsandu.k](https://instagram.com/nimsandu.k/)
 <dev>
-<a href=”https://www.instagram.com/nimsandu.k"><img align=”left” src=”https://github.com/yushi1007/yushi1007/blob/5b2c3f84e1be5c6d48881f2b7b4b6e451036b316/images/instagram.png" alt=”nimsandu\intagram” width=”21px”/></a>
+  
 </dev>
 <!--
 **nimsandu/nimsandu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
