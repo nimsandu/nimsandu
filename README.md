@@ -7,7 +7,7 @@ still a Teen
 <br>
 But Slightly wiser 🙃
 
-#### Someone who got hurt from other’s words, But still breathing cuz their words hurt so good ! Crying alone, smiling together
+
 
 
   
