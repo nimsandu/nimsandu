@@ -11,10 +11,7 @@ But Slightly wiser 🙃
 
 
   
-  [![Nimsandus's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimsandu&show_icons=true&theme=dark)](https://github.com/nimsandu) [![Current major project](https://github-readme-stats.vercel.app/api/pin/?username=nimsandu&repo=spicetify-bloom&theme=dark)](https://github.com/nimsandu/spicetify-bloom)
-  
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimsandu&theme=dark&layout=compact)](https://github.com/nimsandu)
+  [![Nimsandus's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimsandu&show_icons=true&theme=dark)](https://github.com/nimsandu) [![Current major project](https://github-readme-stats.vercel.app/api/pin/?username=nimsandu&repo=spicetify-bloom&theme=dark)](https://github.com/nimsandu/spicetify-bloom) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimsandu&theme=dark&layout=compact)](https://github.com/nimsandu)
   
   #### spotify chilling activity <br>
   ![Last Chillout](https://spotify-recently-played-readme.vercel.app/api?user=h9h35ieyknj01kyuvr8snbcjg)
