@@ -16,19 +16,27 @@ But Slightly wiser 🙃
 </div>
 
 <div align="center">
+  
   [![Current major project](https://github-readme-stats.vercel.app/api/pin/?username=nimsandu&repo=spicetify-bloom&theme=dark)](https://github.com/nimsandu/spicetify-bloom)
+  
 </div>
 
 <div align="center">
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimsandu&theme=dark&layout=compact)](https://github.com/nimsandu)
+  
 </div>
 
 <div align="center">
+  
   #### spotify chilling activity ![Last Chillout](https://spotify-recently-played-readme.vercel.app/api?user=h9h35ieyknj01kyuvr8snbcjg)
+  
 </div>
 
 <div align="center">
+  
   [nimsandu on spotify](https://open.spotify.com/user/h9h35ieyknj01kyuvr8snbcjg)
+  
 </div>
 
 
