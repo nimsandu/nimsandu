@@ -15,19 +15,11 @@ But Slightly wiser 🙃
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimsandu&theme=dark&langs_count=3)](https://github.com/nimsandu) [![Current major project](https://github-readme-stats.vercel.app/api/pin/?username=nimsandu&repo=spicetify-bloom&theme=dark)](https://github.com/nimsandu/spicetify-bloom)
   
-  #### spotify chilling activity <br>
-  
-   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=h9h35ieyknj01kyuvr8snbcjg) 
-  
-  <br>
-  
-  [nimsandu on spotify](https://open.spotify.com/user/h9h35ieyknj01kyuvr8snbcjg)
-  
 
 
 
 ### contact me
-#### Website [nimsandu.gq](https://nimsandu.gq)
+#### Website [nimaat.top](https://nimaat.top)
 #### Instagram [nimsandu.k](https://instagram.com/nimsandu.k/)
 <dev>
   
